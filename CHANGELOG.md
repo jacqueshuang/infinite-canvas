@@ -3,6 +3,7 @@
 ## Unreleased
 
 + [新增] 提示词来源新增 Freestylefly GPT Image 2 内置来源。
++ [调整] 移除顶部操作区的版本入口和 GitHub 入口。
 
 ## v0.15.1 - 2026-08-07
 
